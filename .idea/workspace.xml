@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f02c3fb-5369-41d0-92a2-89105f6ef803" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/aleksandras/kodoklubas1/LuvroKodas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/aleksandras/kodoklubas2/antikosMastytojai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/aleksandras/kodoklubas3/venerosGimimas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/aleksandras/kodoklubas4/niloKrantai.java" afterDir="false" />
-    </list>
+    <list default="true" id="0f02c3fb-5369-41d0-92a2-89105f6ef803" name="Changes" comment="padarytos 4 uzduotis" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,6 +113,29 @@
       <option name="presentableId" value="Default" />
       <updated>1684949631476</updated>
     </task>
+    <task id="LOCAL-00001" summary="padarytos 4 uzduotis">
+      <created>1685568301807</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685568301807</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="padarytos 4 uzduotis" />
+    <option name="LAST_COMMIT_MESSAGE" value="padarytos 4 uzduotis" />
   </component>
 </project>

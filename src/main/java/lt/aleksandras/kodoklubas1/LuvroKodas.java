@@ -58,14 +58,14 @@ public class LuvroKodas {
                 117,
                 266);
 
-        Integer target = 264862862;
+        int target = 264862862;
         Integer nearestDelta = target;
         List<Integer> values = new ArrayList<>();
 
         for (Integer i : list)
         {
             Integer tempValue2 = Math.round((float)(target+1)/i);
-            Integer tempNearestDelta = (i * tempValue2)- (target+1);
+            int tempNearestDelta = (i * tempValue2)- (target+1);
             if (tempNearestDelta>=0 && tempNearestDelta<=nearestDelta){
                 if (tempNearestDelta<nearestDelta) {
                     values.clear();

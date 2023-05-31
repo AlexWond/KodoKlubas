@@ -33,9 +33,9 @@ public class venerosGimimas {
 
         int suma = 0;
 
-        for (int k = 0; k < waves.size(); k++){
-            System.out.println(waves.get(k));
-            suma+=waves.get(k);
+        for (Integer wave : waves) {
+            System.out.println(wave);
+            suma += wave;
         }
         System.out.println(suma);
     }
